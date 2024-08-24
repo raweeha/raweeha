@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raweeha
-- 👀 I’m interested in AI, programming, video editing and creating animations!
-- 🌱 Aspiring Software Engineer
+- 👀 I’m interested in AI, statistics, programming, video editing and creating animations!
+- 🌱 Eager to grow & learn
 - 💞️ I’m looking to collaborate on some projects
 
 <!---
