@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raweeha
-- 👀 I’m interested in AI, statistics, programming, video editing and creating animations!
+- 👀 I’m interested in AI and statistics!
 - 🌱 Eager to grow & learn
 - 💞️ I’m looking to collaborate on some projects
 
